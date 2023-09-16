@@ -1,0 +1,92 @@
+    1  git clone -b master https://KhangHuynh98@bitbucket.org/khanghuynh98/cs149.git cs149_KhangHuynh
+    2  git clone -b master https://KhangHuynh98@bitbucket.org/khanghuynh98/cs149.gitLinks to an external site. cs149_KhangHuynh
+    3  git clone -b master https://KhangHuynh98@bitbucket.org/khanghuynh98/cs149.git cs149_KhangHuynh
+    4  git --version
+    5  git --version
+    6  ls
+    7  cd Desktop/
+    8  mkdir A1
+    9  cd A1
+   10  nano matrix_multiply.c
+   11  cat matrix_multiply.c 
+   12  ls
+   13  sudo apt install gcc
+   14  ls
+   15  git init
+   16  git add .
+   17  git commit -m "section 5.3"
+   18  git branch
+   19  git push -f origin main 
+   20  git remote add origin https://github.com/Khang8078/Web-Development-Bootcamp.git
+   21  git push -f origin main 
+   22  git init
+   23  git remote add origin https://github.com/Khang8078/Web-Development-Bootcamp.git
+   24  git add .
+   25  git push -u origin main 
+   26  git push -u origin main \
+   27  git push -u origin main \
+   28  git push -u origin main 
+   29  git status
+   30  git add .
+   31  git status
+   32  ls
+   33  git add 5.3\ CSS\ Selectors/
+   34  git status
+   35  git commit -m "section 5.3"
+   36  git init
+   37  git remote add origin https://github.com/Khang8078/Web-Development-Bootcamp.git
+   38  git config --global user.email "khanghuynh8078@gmail.com"
+   39  git config --global user.name "Khang Huynh"
+   40  git add .
+   41  git status
+   42  ls
+   43  cd 5.3\ CSS\ Selectors/
+   44  ls
+   45  git add .
+   46  git staus
+   47  git status
+   48  ls
+   49  git add .
+   50  ;s
+   51  git status
+   52  git add index.html 
+   53  git status
+   54  git status
+   55  mkdir WS1
+   56  cd WS1
+   57  git add .
+   58  git status
+   59  git commit -m "WS1" -a
+   60  git commit -m "WS1"
+   61  ls
+   62  git init
+   63  git remote add origin https://github.com/Khang8078/Web-Development-Bootcamp.git
+   64  git add 5.3\ CSS\ Selectors/
+   65  git status
+   66  git status
+   67  git remote
+   68  git remote remove origin
+   69  git remote set-url origin https://github.com/Khang8078/Web-Development-Bootcamp.git
+   70  git remote add origin https://github.com/Khang8078/Web-Development-Bootcamp.git
+   71  git remote
+   72  git config --global user.email "khanghuynh8078@gmail.com"
+   73  git config --global user.name "Khang Huynh"
+   74  git add .
+   75  git commit -m "section 5.3" -a
+   76  git branch -u origin/main
+   77  git branch -u origin/master
+   78  git branch
+   79  git push -u origin main
+   80  git push -u origin main
+   81  pwd
+   82  ls
+   83  cd Desktop/
+   84  mkdir web-bootcamp
+   85  cd web-bootcamp/
+   86  git init
+   87  git remote add origin https://github.com/Khang8078/Web-Development-Bootcamp.git
+   88  git config --global user.email "khanghuynh8078@gmail.com"
+   89  git config --global user.name "Khang Huynh:
+"
+   90  git add .
+   91  history > cmds.log
